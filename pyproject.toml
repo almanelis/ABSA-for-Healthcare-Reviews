@@ -6,10 +6,10 @@ authors = [
     {name = "None"}
 ]
 readme = "README.md"
-requires-python = ">=3.9,<3.13"
+requires-python = ">=3.10,<3.11"
 dependencies = [
-    "transformers (>=4.57.0,<5.0.0)",
-    "pandas (>=2.3.3,<3.0.0)"
+    "pyabsa (>=2.4.3,<3.0.0)",
+    "protobuf (==3.20.*)",
 ]
 
 

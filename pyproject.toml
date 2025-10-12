@@ -1,0 +1,18 @@
+[project]
+name = "absa-for-healthcare-reviews"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "None"}
+]
+readme = "README.md"
+requires-python = ">=3.10,<3.11"
+dependencies = [
+    "pyabsa (>=2.4.3,<3.0.0)",
+    "protobuf (==3.20.*)",
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

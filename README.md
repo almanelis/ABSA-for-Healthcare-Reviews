@@ -37,7 +37,7 @@
 ## Установка
 1. Клонирование репозитория
 ```bash
-git clone https://github.com/almanelis/ROCFlow.git
+git clone https://github.com/almanelis/ABSA-for-Healthcare-Reviews.git
 ```
 2. Установка зависимостей через `poetry`
 ```bash
